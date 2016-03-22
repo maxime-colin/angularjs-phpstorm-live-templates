@@ -1,0 +1,10 @@
+<template name="ngmoduleinit" value="/**&#10; * Module $moduleNameCapitalized$&#10; */&#10;angular.module('$moduleName$', [$END$]);" description="AngularJS - Create new module" toReformat="false" toShortenFQNames="true">
+  <variable name="moduleName" expression="" defaultValue="" alwaysStopAt="true" />
+  <variable name="moduleNameCapitalized" expression="capitalize(moduleName)" defaultValue="" alwaysStopAt="false" />
+  <context>
+    <option name="JAVA_SCRIPT" value="true" />
+    <option name="JS_EXPRESSION" value="true" />
+    <option name="JSX_HTML" value="true" />
+    <option name="JS_STATEMENT" value="true" />
+  </context>
+</template>
