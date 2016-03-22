@@ -13,5 +13,5 @@ An XML copy of the selected templates is inserted from the system clipboard to t
 
 ## Live templates
 
- - ngmodule : Initialize new controller, directive, service...
-
+ - ngmodule : Create new controller, directive, service...
+ - ngmoduleinit : Create new module
