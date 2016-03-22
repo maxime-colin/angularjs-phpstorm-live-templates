@@ -1,0 +1,12 @@
+<template name="ngreturndirective" value="return {&#10;&#9;restrict: 'E',&#10;&#9;scope: {&#10;&#9;&#9;$scope$&#10;&#9;},&#10;&#9;bindToController: true,&#10;&#9;templateUrl: '$templateURL$',&#10;&#9;controllerAs: '$nameCamelized$Controller',&#10;&#9;controller: function($scope) {&#10;&#9;&#9;$controller$&#10;&#9;}&#10;};" description="AngularJS - Return directive configuration" toReformat="false" toShortenFQNames="true">
+  <variable name="scope" expression="" defaultValue="" alwaysStopAt="true" />
+  <variable name="templateURL" expression="" defaultValue="" alwaysStopAt="true" />
+  <variable name="nameCamelized" expression="" defaultValue="" alwaysStopAt="true" />
+  <variable name="controller" expression="" defaultValue="" alwaysStopAt="true" />
+  <context>
+    <option name="JAVA_SCRIPT" value="true" />
+    <option name="JS_EXPRESSION" value="true" />
+    <option name="JSX_HTML" value="true" />
+    <option name="JS_STATEMENT" value="true" />
+  </context>
+</template>
