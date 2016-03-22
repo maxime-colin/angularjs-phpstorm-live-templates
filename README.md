@@ -15,3 +15,4 @@ An XML copy of the selected templates is inserted from the system clipboard to t
 
  - ngmodule : Create new controller, directive, service...
  - ngmoduleinit : Create new module
+ - ngreturndirective : Return directive configuration
