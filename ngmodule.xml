@@ -1,0 +1,16 @@
+<template name="ngmodule" value="(function(angular) {&#10;&#9;&#10;&#9;/**&#10;&#9; * $moduleNameCapitalized$ - $nameCapitalized$ ($type2$)&#10;&#9; *&#10;&#9; * @ngInject&#10;&#9; */&#10;&#9;function $name2$($parameters$) {&#10;&#9;&#9;$END$&#10;&#9;}&#10;&#10;&#9;angular&#10;&#9;&#9;.module('$moduleName$')&#10;&#9;&#9;.$type$('$name$', $name$);&#10;&#9;&#9;&#10;})(angular);" description="Angular 1 - Module (controller, directive, service...)" toReformat="false" toShortenFQNames="true">
+  <variable name="moduleName" expression="" defaultValue="app" alwaysStopAt="true" />
+  <variable name="name" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
+  <variable name="type" expression="" defaultValue="controller" alwaysStopAt="true" />
+  <variable name="parameters" expression="" defaultValue="" alwaysStopAt="true" />
+  <variable name="moduleNameCapitalized" expression="capitalize(moduleName)" defaultValue="" alwaysStopAt="false" />
+  <variable name="nameCapitalized" expression="capitalize(name)" defaultValue="" alwaysStopAt="false" />
+  <variable name="type2" expression="type" defaultValue="" alwaysStopAt="false" />
+  <variable name="name2" expression="name" defaultValue="" alwaysStopAt="false" />
+  <context>
+    <option name="JAVA_SCRIPT" value="true" />
+    <option name="JS_EXPRESSION" value="true" />
+    <option name="JSX_HTML" value="true" />
+    <option name="JS_STATEMENT" value="true" />
+  </context>
+</template>
