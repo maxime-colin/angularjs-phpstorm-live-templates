@@ -13,6 +13,8 @@ An XML copy of the selected templates is inserted from the system clipboard to t
 
 ## Live templates
 
- - ngmodule : Create new controller, directive, service...
  - ngmoduleinit : Create new module
  - ngreturndirective : Return directive configuration
+ - ngmodule : Create new controller, directive, service...
+ 
+![ngmodule screencast](https://raw.githubusercontent.com/maxime-colin/angularjs-phpstorm-live-templates/master/ngmodule.gif)
