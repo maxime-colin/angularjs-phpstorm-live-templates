@@ -1,0 +1,12 @@
+<template name="ngcomponent" value="(function(angular) {&#10;&#10;&#9;/**&#10;&#9; * $moduleNameCapitalized$ - $nameCapitalized$ (component)&#10;&#9; *&#10;&#9; * @ngInject&#10;&#9; */&#10;&#9;var component = {&#10;&#9;&#9;template: '',&#10;&#9;&#9;controller: /*@ngInject*/ function(){&#10;&#9;&#9;&#9;$END$&#10;&#9;&#9;}&#10;&#9;};&#10;&#9;&#10;&#9;angular&#10;&#9;&#9;.module('$moduleName$')&#10;&#9;&#9;.component('$name$', component);&#10;&#10;})(angular);" description="AngularJS  1.5.5 - Component" toReformat="false" toShortenFQNames="true">
+  <variable name="moduleName" expression="" defaultValue="app" alwaysStopAt="true" />
+  <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+  <variable name="nameCapitalized" expression="capitalize(name)" defaultValue="" alwaysStopAt="false" />
+  <variable name="moduleNameCapitalized" expression="capitalize(moduleName)" defaultValue="" alwaysStopAt="false" />
+  <context>
+    <option name="JAVA_SCRIPT" value="true" />
+    <option name="JS_EXPRESSION" value="true" />
+    <option name="JSX_HTML" value="true" />
+    <option name="JS_STATEMENT" value="true" />
+  </context>
+</template>
